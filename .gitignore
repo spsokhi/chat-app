@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: IDE or editor specific files (e.g., Visual Studio Code)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
